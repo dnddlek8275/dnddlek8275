@@ -8,17 +8,7 @@ I am curious about a wide range of technologies and enjoy continuously learning,
 
 ### 🎬 [Museubi Movie Recommendation Site](https://github.com/dnddlek8275/Museubi_Movie_Recommended_Sites)
 
-A movie recommendation service backed by PostgreSQL, SQLAlchemy, Alembic, and Pydantic.
-
-The project includes user and authentication services, movie and character management, chat history storage, and database integration for LLM-generated movie recommendations.
-
-**Highlights**
-
-- Service-layer architecture for FastAPI integration
-- SQLAlchemy ORM and Alembic migrations
-- User, authentication, chat, and admin services
-- PostgreSQL-based data management
-- LLM recommendation result mapping and snapshot storage
+To be added
 
 ---
 

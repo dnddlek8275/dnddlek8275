@@ -8,7 +8,7 @@ I am curious about a wide range of technologies and enjoy continuously learning,
 
 ### 🎬 [Museubi Movie Recommendation Site](https://github.com/dnddlek8275/Museubi_Movie_Recommended_Sites)
 
-To be added
+Currently in progress and will be added soon.
 
 ---
 

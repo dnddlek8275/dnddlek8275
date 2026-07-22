@@ -117,11 +117,10 @@ The project compares five classification models, tracks experiments with MLflow,
 
 ## Currently Exploring
 
+- Indoor spatial reconstruction from mobile video using depth estimation and camera pose analysis
+- Data analysis and insight discovery through real-world datasets
 - Reliable RAG pipelines and retrieval quality
-- Indoor spatial reconstruction from mobile video
-- Depth estimation and camera pose analysis
-- Backend architecture and database design
-- Container orchestration and cloud deployment
+- Infrastructure architecture, container orchestration, cloud deployment, and scalable system operations
 
 ## Contact
 

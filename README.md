@@ -28,17 +28,21 @@ The project combines camera pose estimation, semantic segmentation, and monocula
 
 ---
 
-### 🍽️ [UngsKitchen Reservation App](https://github.com/dnddlek8275/UngsKitchen_Reservation_APP)
+### 📊 [AI Job Market Trend Analysis](https://github.com/dnddlek8275/AI_Job_Market_Trend_Analysis)
 
-An Android restaurant reservation prototype where users explore a restaurant image, select a specific table hotspot, and enter booking details.
+A reproducible data analysis and machine learning experiment for predicting whether an AI job belongs to the high-salary class.
+
+The project compares five classification models, tracks experiments with MLflow, and manages the dataset with DVC.
 
 **Highlights**
 
-- Interactive restaurant image with zoom and pan gestures
-- Ratio-based table hotspot placement
-- Table selection and zoom transitions
-- Local reservation form and sample restaurant data
-- Product and backend architecture planning
+- AI job market salary data preprocessing and analysis
+- Logistic Regression, Random Forest, XGBoost, LightGBM, and CatBoost
+- Stratified train-test split and class-imbalance handling
+- Accuracy, precision, recall, F1, ROC AUC, PR AUC, and log-loss evaluation
+- MLflow experiment tracking and Model Registry integration
+- DVC-based dataset version management
+
 
 ## Tech Stack
 
@@ -46,13 +50,18 @@ An Android restaurant reservation prototype where users explore a restaurant ima
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=database&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### Backend
 
-<p> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square" /> <img src="https://img.shields.io/badge/Alembic-6BA539?style=flat-square" /> <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" /> <img src="https://img.shields.io/badge/REST%20API-005571?style=flat-square" /> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" /> </p>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![Alembic](https://img.shields.io/badge/Alembic-6BA81E?style=flat-square)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
 ### Frontend
 
@@ -67,31 +76,41 @@ An Android restaurant reservation prototype where users explore a restaurant ima
 
 ### AI Engineering & Computer Vision
 
-- LLM API integration
-- Retrieval-Augmented Generation
-- Embeddings and semantic search
-- BGE-M3
-- CrossEncoder reranking
-- YOLO
-- Monocular depth estimation
+![LLM API](https://img.shields.io/badge/LLM_API_Integration-412991?style=flat-square&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=flat-square&logo=semanticweb&logoColor=white)
+![Embedding](https://img.shields.io/badge/Embedding-5A29E4?style=flat-square&logo=vectorworks&logoColor=white)
+![BGE-M3](https://img.shields.io/badge/BGE--M3-0081CB?style=flat-square)
+![CrossEncoder](https://img.shields.io/badge/CrossEncoder-FF4785?style=flat-square)
+![YOLO](https://img.shields.io/badge/YOLO-111F68?style=flat-square&logo=yolo&logoColor=white)
+![Depth Estimation](https://img.shields.io/badge/Depth_Estimation-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+### Data Analysis & MLOps
+
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EB5B29?style=flat-square)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat-square)
+![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square&logoColor=black)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-13ADC7?style=flat-square&logo=dvc&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ### Cloud & DevOps
 
+![KakaoCloud](https://img.shields.io/badge/KakaoCloud-FFCD00?style=flat-square&logo=kakao&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-- KakaoCloud
-- Docker Compose
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
@@ -109,8 +128,3 @@ An Android restaurant reservation prototype where users explore a restaurant ima
 [![Email](https://img.shields.io/badge/Email-dnddlek8275%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dnddlek8275@gmail.com)
 [![Velog](https://img.shields.io/badge/Velog-xodnd8275-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@xodnd8275/posts)
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dnddlek8275&show_icons=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dnddlek8275&layout=compact&theme=transparent)

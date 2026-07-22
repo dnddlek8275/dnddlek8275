@@ -2,7 +2,7 @@
 
 > I’m a hands-on builder who is willing to take on anything that offers a chance to learn through experience.
 
-I enjoy turning ideas into working prototypes across backend development, AI engineering, computer vision, infrastructure, and user-facing applications.
+I am curious about a wide range of technologies and enjoy continuously learning, experimenting, and expanding my interests across different fields.
 
 ## Featured Projects
 
@@ -62,13 +62,7 @@ An Android restaurant reservation prototype where users explore a restaurant ima
 
 ### Backend
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
-![Alembic](https://img.shields.io/badge/Alembic-6BA81E?style=flat-square)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
-
-- REST API
-- JWT authentication
+<p> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square" /> <img src="https://img.shields.io/badge/Alembic-6BA539?style=flat-square" /> <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" /> <img src="https://img.shields.io/badge/REST%20API-005571?style=flat-square" /> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" /> </p>
 
 ### Frontend
 

@@ -28,7 +28,7 @@ The project combines camera pose estimation, semantic segmentation, and monocula
 
 ---
 
-### 📊 [AI Job Market Trend Analysis](https://github.com/dnddlek8275/AI_Job_Market_Trend_Analysis)
+### 📊 [AI Job Market Trend Analysis](https://github.com/dnddlek8275/AI-Job-Market-Trend-Analysis)
 
 A reproducible data analysis and machine learning experiment for predicting whether an AI job belongs to the high-salary class.
 

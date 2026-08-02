@@ -6,7 +6,7 @@ I am curious about a wide range of technologies and enjoy continuously learning,
 
 ## Featured Projects
 
-### 🎬 [Museubi Movie Recommendation Site](https://github.com/dnddlek8275/Museubi_Movie_Recommended_Sites)
+### 🎬 [Museubi Movie Recommendation Site]([https://github.com/dnddlek8275/Museubi_Movie_Recommended_Sites](https://github.com/dnddlek8275/Musubi-Movie-Recommended-Site))
 
 Currently in progress and will be added soon.
 

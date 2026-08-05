@@ -6,9 +6,16 @@ I am curious about a wide range of technologies and enjoy continuously learning,
 
 ## Featured Projects
 
-### 🎬 [Museubi Movie Recommendation Site]([https://github.com/dnddlek8275/Museubi_Movie_Recommended_Sites](https://github.com/dnddlek8275/Musubi-Movie-Recommended-Site))
+### 🎬 [Musubi Movie Recommendation Site](https://github.com/dnddlek8275/Musubi-Movie-Recommended-Site)
 
-Currently in progress and will be added soon.
+A full-stack movie discovery and recommendation platform that combines personalized browsing with RAG-powered conversations in the voices of movie characters.
+
+**Highlights**
+
+- Personalized movie search, recommendations, rankings, and activity tracking
+- One-on-one and group conversations with supported movie characters
+- RAG pipeline with intent routing, embedding retrieval, and reranking
+- React, FastAPI, PostgreSQL, Milvus, Docker, and Kubernetes integration
 
 ---
 
